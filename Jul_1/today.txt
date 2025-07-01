@@ -1,2 +1,2 @@
 # i learned download and install (Elixir, Erlang, postgreSQL.node.js) with ChatGPT guidence
-
+# Do assigned quiz
