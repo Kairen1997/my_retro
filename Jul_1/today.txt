@@ -3,5 +3,6 @@
 # i learned download and install (phoenix,Elixir, Erlang, postgreSQL.node.js) with ChatGPT guidence
 # Chatgpt elixir phoenix expert used to help web development programming
 # i learned to use and know its function of few command prompt (mix phx.new, mix deps.get, mix ecto.create, mix phx.server, iex -S mix phx.server)
+# localhost:4000
 # i learned creating file for my project untuk file local
 
