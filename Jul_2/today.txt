@@ -1,0 +1,5 @@
+# I learned the function and the use of command mix phx.gen.live, mix ecto.migrate
+# I learned that, this command used to create any changes to the localhost:4000
+# i learned to create github repo with provided local and cursor file
+# the purpose of this lesson is to help the cursor and github interconnected. In which it will be automatically updated to each other with any changes. (use git bash to open cursor file)
+# i opened the postgresSQL/pgAdmin 4 to observe my database
