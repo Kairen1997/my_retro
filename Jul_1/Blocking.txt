@@ -4,4 +4,4 @@
 
 #2/7/2025
 # lots of syntax that's new to me 
-# tips "understand it one by one"
+# tips "understand it one by one". 
