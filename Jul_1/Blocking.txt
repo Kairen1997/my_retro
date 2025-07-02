@@ -1,3 +1,7 @@
 # 7/1/2025
 # Computer & CPU technicality problem
 # hesitant asking question/help
+
+#2/7/2025
+# lots of syntax that's new to me 
+# tips "understand it one by one"
