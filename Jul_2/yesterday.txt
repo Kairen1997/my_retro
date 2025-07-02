@@ -1,0 +1,7 @@
+# 1/7/2025
+# getiing familiar with git add ., git commit -m, git push
+# instal phoenix, elixir, erlang, postgresSQL, node.js with the guidance of chat ChatGPT
+# using elixir phoenix expert in chat gpt to guide in web development
+# using command prompt at terminal (cursor) in creating the local file, files in the local file
+# some command prompt ( mix phx.new, cd project file name, mix deps.get, mix ecto.create. mix phx.server, localhost:4000. iex -S mix phx.server )
+# add extentions at cursor (ElixirLS: Elixir Support and debugger)
