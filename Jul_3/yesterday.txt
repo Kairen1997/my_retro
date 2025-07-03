@@ -1,0 +1,8 @@
+# Date 2/7/2025
+Creating GitHub repository while local and cursor file are created.
+Learned on how  to interconnecting cursor and GitHub. This will make uploading any updates and changes amade between this two platform
+Explored and tried the new generator command (mix phx.gen.live)
+Explored and getting to know further on how this generator command function
+To understand the generated coding structure by this command (mix phx.gen.live contextmodule schemacontext user name:string age:integer
+Presentation preparation
+CONTINUE....
