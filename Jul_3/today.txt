@@ -1,2 +1,8 @@
 i learned to create CRUD, create, Read, update, delete
-i learned the generated doing structure
+i learned the generated coding structure that generated through mix phx.gen. live command
+to determine which file was created and the function of the file
+file created in library/testapp includes (user.ex, account.ex, repo.ex,)
+file created in library/testapp web includs (live\user_live)
+to understand the function of router
+differentiate 2 different files(testapp file, testapp web file)
+To know database operations
