@@ -1,0 +1,2 @@
+i learned to create CRUD, create, Read, update, delete
+i learned the generated doing structure
