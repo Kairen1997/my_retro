@@ -1,0 +1,5 @@
+learning CRUD function one by one using cmd in terminal
+learning new cmd in terminal to insert perform CRUD manually
+to understand how to front end and back end works
+given task to present the flow of how UPDATE function from front end to back end
+i do still need to polish my understanding on UPDATE Function from front end to back end
