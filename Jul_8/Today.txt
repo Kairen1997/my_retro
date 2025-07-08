@@ -1,0 +1,36 @@
+web dev study tips
+
+Konsep
+handson
+Teori
+
+**************************
+Today's Self-Learning Summary – Phoenix LiveView & CRUD
+
+*********************************
+
+CORE CONCEPT I LEARNED:
+
+A. CRUD  in PHOENIX 
+
+- Create, Read, Update, Delete operations using Phoenix
+- How each operation works through LiveView, interacting with the backend using Ecto and Repo.
+
+B. LIVEVIEW AND LIVECOMPONENT:
+
+- LiveView manages the page's real-time behavior.
+- LiveComponent is a reusable module, often used for forms like inserting or editing data.
+- When I click a button, LiveComponent handles it with handle_event, processes form data, and updates the database using context functions like Accounts.update_user/2
+
+C. FORM RENDERING AND UPDATING
+
+- I learned how the form is built using <.simple_form> and how assign_new(:form, ...) initializes the form with changesets.
+
+D. UNDERSTANDING PHOENIX EVENT:
+
+- phx-submit, phx-change, and handle_event/3 are how LiveView reacts to user actions
+- I now understand what happens when submitting the form — either success or error handling (flash message or re-rendering errors)
+
+E. Code Flow (Update Process):
+
+- Frontend triggers form → backend handle_event("save", ...) → calls update_user() → if successful, flash message and redirect; if failed, return error changeset and re-render the form

@@ -1,0 +1,12 @@
+TIPS how to use CHATGPT:
+
+ASK FOR OPTIONS 
+DO NOT CHANGE ANY CODE YET
+IMPLEMENT
++++++++++++++++++++++++
+
+CRUD Presentation preparation
+
+Perform Ceate, Read. Update, Delete (CRUD) manually in terminal. 
+
+
