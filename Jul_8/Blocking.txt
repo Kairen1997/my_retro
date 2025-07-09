@@ -1,0 +1,7 @@
+OVERWHELMED BY TOO MANY TERMS AT ONCE
+
+- Phoenix liveview has many moving parts:mount, handle_event, assigns, patch, form, socket, etc.
+
+How i solve my blocking?
+
+- Study and know the process, then put to practice the terms one by one.
