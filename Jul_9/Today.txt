@@ -1,0 +1,18 @@
+A.  Pattern matching 
+    - 
+
+b.|> pipe function
+    - pipe function is used in a condition to make code more readable by passing the result of one expression as the first argument to the next function
+    for example: |> validate_inclusion(:gender, ["male", "female"])
+
+
+c. Coding adjustment based on requrement:
+        i. index.html - <:col :let={{_id, user}} label="Category">{user.category}</:col>
+        this adjustment is needed to perform user category appear on web table
+
+        ii. show.html -  <:item title="Category">{@user.category}</:item>
+        this adjustment also needed to excute user category on web (table)
+
+        iii. formcomponent- to excute form modul on web whenever new user button is pressed
+
+D. assignment preparation on LIST & Taples- differences between list & Taples

@@ -1,0 +1,1 @@
+i learned about CRUD Function and how its implemented, coded through real practices and presentation
