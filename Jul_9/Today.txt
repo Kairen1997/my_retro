@@ -1,5 +1,5 @@
 A.  Pattern matching 
-    - 
+    - simple and complex way of pattern matching
 
 b.|> pipe function
     - pipe function is used in a condition to make code more readable by passing the result of one expression as the first argument to the next function
