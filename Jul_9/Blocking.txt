@@ -4,7 +4,7 @@ B. Rushing without practicing
 
 C. missing fundamentals
     - somehow i easly forgot the fundamentals on every process and code to rushing in executing the result.
-    - i need to do it slow and steady, and somehow pause to make sure i understand each process.
+    - i need to do it slowly and steady, and somehow pause to make sure i understand each process.
 
 D. Debugging frustration
     - there are few error happened during learning process. this somehow demotivating especially when i am not able to fix them in times.at the same time to catch what been tought and the next assignment
