@@ -1,0 +1,59 @@
+an introduction on analysis & design (PADI)
+this process is important in web development
+the process include Planning, Analysis, design & implementation
+
++++++++++++++
+Personal consultation with Sir Iskandar
+
+Personal Guidance on a suggested final project - financial management and umrah booking system. 
+
+Here are the elaborated draft of this project that i have prepared so far. (this draft might be change)
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+🌙 Umrah Booking & Financial Planning System
+
+🎯 Purpose
+A web-based platform that allows users to plan and book Umrah trips based on their monthly income, with automated installment calculation, 
+smart financial guidance, and secure booking management.
+
+🧩 Core Features
+1. User Account System
+
+User registration & login (phx.gen.auth)
+Secure sessions and access control
+User dashboard for managing bookings & payments
+
+2. Booking System
+
+Choose from multiple Umrah packages
+Input desired departure month
+Pay deposit to confirm booking
+View package details and payment plan
+
+3. Financial Planning Engine
+
+User enters monthly salary
+System auto-calculates:
+Total cost
+Deposit required & deposit paid
+Monthly installment based on income
+Number of months needed
+Suggested earliest departure date
+Warns if package is not affordable
+Suggests alternative plans (e.g. higher deposit, cheaper package)
+
+4. Payment Management
+
+Online and offline payment options
+Deposit required before installment starts
+Payment tracking: upload receipts or integrate FPX/ToyyibPay
+Payment reminders via email or SMS
+
+5. Admin Panel
+
+Manage packages and user bookings
+View and verify payments
+Configure salary % limit, package prices, etc.
+
+

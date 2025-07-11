@@ -1,0 +1,17 @@
+MINI PROJECT - BMI CALCULATOR
+
+in this project i learned to add Coding. such as:
+
+bmi_form_component - a modal coding that will excute the form of insertion height and weight. this form also execute the bmi category of a presentation spontantiously, real time changing
+
+show.html - in this part, the coding for bmi CALCULATOR button was added, and the from component coding, in order to show to ui
+
+router - to help the user to navigate the modal form.
+
+show.ex - add defp
+
++++++++++++++++++++++++++++++++++++++++++++++++
+
+Mykad verification: (to verify gender & state)
+
+I deepened my understanding of: pattern matching, list vs tuples, enum module usage, pipe operator
