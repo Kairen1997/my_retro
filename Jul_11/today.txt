@@ -1,4 +1,4 @@
-an introduction on analysis & design (PADI)
+An introduction on analysis & design (PADI)
 this process is important in web development
 the process include Planning, Analysis, design & implementation
 
