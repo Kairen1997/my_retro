@@ -1,9 +1,9 @@
-Getting to know, study and hands on practice on html, CSS, Tailwind, UIverse, Responsive UI
+Getting to know, study and hands on practice on html, CSS, Tailwind, UIverse, Responsive UI, five serve
 
 Summary: 
 
 CSS: inline html, internal html, internal html
-With the help of ChatGPT, i was able to code and understand the use of HTML, CSS, Tailwind but i need to spend more time on expolring this features
+With the help of ChatGPT, i was able to code and understand the use of HTML, CSS, Tailwind but i need to spend more time on expolring these features
 
 Personal project consultation with Sir Iskandar:
 

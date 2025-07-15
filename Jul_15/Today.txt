@@ -1,0 +1,6 @@
+Database Relationship
+- study database relationship, it's function and hands on practice
+- used Command: mix phx.gen.live Content Post post title:string body:text user_id:references
+- this command would call all the related functions and libraries
+- did some adjustment as per learning requirement on live post (fromcomponent, index.ex,index.html,show.ex,show.html, router)
+- with the help of chatgpt, i was able to complete the task

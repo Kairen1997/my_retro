@@ -1,0 +1,34 @@
+Umrah booking & financial planning system
+____________________________________________
+
+1. manage bookings
+- allows users to book umrah selection
+- booking includes package selection, travel dates, and payment preferences
+- connected to installment calculations and user financial data
+
+2. manage payments
+
+a). useres can: 
+    - view payment history
+    - track remaining balance
+    - make payments (online or offline)
+b). Payment status updates automatically (paid, pending, etc)
+
+3. input income & Deposit
+
+a). users input their monthly income
+b). based on this, system:
+    - suggest suitable packages
+    - calculate monthly installment amount
+c). Deposit is required as a starting payment; shown in financial Summary
+
+4. umrah packages
+    - Multiple customizable packages (e.g. economy, premium)
+    - includes ( duration, price,service included(flight, hotel,meals))
+    - users can compare packages before booking
+
+5. installments calculation 
+    - system auto-calculates monthly installments from:
+        - total cost - Deposit
+        - divided by months until depature
+    - users can play based on how much time they need to save 
