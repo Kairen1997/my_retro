@@ -1,0 +1,10 @@
+Getting to know, study and hands on practice on html, CSS, Tailwind, UIverse, Responsive UI
+
+Summary: 
+
+CSS: inline html, internal html, internal html
+With the help of ChatGPT, i was able to code and understand the use of HTML, CSS, Tailwind but i need to spend more time on expolring this features
+
+Personal project consultation with Sir Iskandar:
+
+i need to explain in details and specify each of the flowchart process. 
