@@ -3,7 +3,22 @@ The final task will be continued tomorrow.
 database realtionship plays very crucial role in preventing redundancy and data duplication
 it is also a way to communicate each data to one another in preventing clash
 
+mix phx.gen.live Library Book books title:string author:string isbn:string published_at:date
+mix phx.gen.live Library Loan loans user_id:references:users book_id:references:books borrowed_at:naive_datetime due_at:naive_datetime returned_at:naive_datetime
+
+
+
 Preload:
 
-i learned on how and where to put preload
+i learned on how and where to put preload (depending on who using it) - context(library.ex,Account.ex), schema(user.ex, book.ex, loan.ex), live.show (show.ex & show.html.heex).
+
+There is a new function used in today's minit peoject. which is "Enum" in show.html.heex
+
+<:item title="Book">
+    <%= if Enum.empty?(@user.loans) do %>
+      None
+    <% else %>
+      <%= @user.loans |> Enum.map(fn loan -> loan.book.title end) |> Enum.join(", ") %>
+    <% end %>
+  </:item>
 
