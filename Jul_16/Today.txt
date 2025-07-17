@@ -1,0 +1,5 @@
+Proceed on the given homework - database relationship implementation (hands on practices)
+The final task will be continued tomorrow.
+database realtionship plays very crucial role in preventing redundancy and data duplication
+it is also a way of communicate each data to one 
+
