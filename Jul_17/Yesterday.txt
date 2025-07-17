@@ -1,0 +1,28 @@
+PROJECT FINANCIAL PLANNING ENGINE
+
+Still in stage of planning. i did research on how the auto calculation works.
+
+in order for the auto calculation works. this is the list of input required
+
+- total cost = representing the total cost of umrah
+- deposit_paid = booking confirmation and input to calculate the remaining balance
+- depature_date = include in packages
+- booking_date  = 
+- Payment_frequency = how much to pay / month and how many month left
+
+The balance payment need setteled before the depature date. 
+
+Flow
+
+[User selects package]
+↓
+[System shows price + 2 payment options]
+↓
+[User selects "Pay in Full"]
+↓
+[Payment successful]
+↓
+[System updates booking as fully paid]
+↓
+[No installment plan is created]
+
