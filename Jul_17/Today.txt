@@ -1,0 +1,22 @@
+i was able to fix yesterday's issues. 
+i was able to see the list of book that the user borrowed. 
+
+WHAT IS THE PROBLEM?
+
+KeyError at GET /users/1
+key :loan not found in: %Mylibrarynew.Accounts.User{...}
+
+the root cause?
+The User schema was correctly defined with: has_many :loans, Mylibrarynew.Library.Loan
+- But somewhere in the code (template, view, or controller), i accessed the singular key :loan: @user.loan  # ❌ incorrect
+- This raised a KeyError because the User struct does not have a :loan key — only a :loans key (plural), as defined in the schema.
+
+HOW I SOLVE?
+
+Update all references from: @user.loan  # ❌ TO @user.loans  # ✅
+and loop through or access the correct list of associated loans.
+then SOLVED!
+
+
+
+
