@@ -12,17 +12,11 @@ in order for the auto calculation works. this is the list of input required
 
 The balance payment need setteled before the depature date. 
 
-Flow
+flow
 
-[User selects package]
-↓
-[System shows price + 2 payment options]
-↓
-[User selects "Pay in Full"]
-↓
-[Payment successful]
-↓
-[System updates booking as fully paid]
-↓
-[No installment plan is created]
-
+[User selects package] → 
+[System shows package price + deposit] → 
+[User pays deposit] → 
+[System verifies] → 
+[Installment plan auto-generated] → 
+[Payment tracking begins]

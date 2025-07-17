@@ -21,21 +21,15 @@ then SOLVED!
 ENUM
 ********************
 
-Study and deepen my knowledge on ENUM through presentation and real implementation on TestApp coding.
+Study and deepen my knowledge on ENUM function through presentation and real implementation on TestApp coding.
 
 i was able to use ENUM.Find to search a name for a user below 30 and over 30. 
 
-here are the list of ENUM: 
+Hare the list of ENUM: 
 
 Enum.all, Enum.find, Enum.filter, Enum.Count, Enum.any, Enum.group, Enum.Reduce, Enum.sort, Enum.each, Enum.map
 
 ENUM based on my own understanding: Enum is used to manipulate data based on what needed to be exceuted.
-
-
-
-
-
-
 
 
 
