@@ -1,0 +1,3 @@
+i have created project timeline in googlesheet
+ive done on deep research about the project
+creating my ERD with the help of dbdiagram.io
