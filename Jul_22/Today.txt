@@ -1,0 +1,23 @@
+i was able to complete the task with chatgpt asistance
+
+today's assignment remind me of this command:
+
+- mix phx.gen.schema SchemaName table_name field:type field:type ...
+- mic ecto.migrate
+
+used whenever we want to add any types of database 
+
+for an example: 
+
+mix phx.gen.schema Authentication.CredentialProfile credential_profiles \
+full_name:string ic_number:string phone_number:string address:string \
+birthdate:date credential_id:references:credentials
+
+
+++++++++++++++++++++++
+Authentication workflows
+
+User Registration -> email confirmation -> user login  -> session authentication -> token-based authentication -> Logout
+-> forgot password/reset password -> acess control (auth plug)
+
+
