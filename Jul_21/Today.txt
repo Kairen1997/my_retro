@@ -1,0 +1,2 @@
+study, deepen knowledge and practices coding using Authentication 
+authentication used to create a user and admin panel in making sure the account/ data is protected
