@@ -1,0 +1,6 @@
+TECHNICAL DOCUMENTAION
+Technical documentation is a required documentation of how a website developed. Each processes of website development are recorded. this documentation used to guide any developer in the future.
+
+Assignment 
+Provide a technical documentation of website development process. the process' included the use of authentication in liveview. The user able to log in and display the admin and regular user page respectively.
+Besides, admin able to access on both page.

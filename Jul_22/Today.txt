@@ -1,3 +1,5 @@
+(cons yesterday assignment)
+
 i was able to complete the task with chatgpt asistance
 
 today's assignment remind me of this command:
@@ -14,10 +16,16 @@ full_name:string ic_number:string phone_number:string address:string \
 birthdate:date credential_id:references:credentials
 
 
+
 ++++++++++++++++++++++
-Authentication workflows
+today assignment - Authentication workflows
 
 User Registration -> email confirmation -> user login  -> session authentication -> token-based authentication -> Logout
 -> forgot password/reset password -> acess control (auth plug)
 
+
+Self-Improvement
+
+i was able to familirize my self of each section of cursor
+i'm getting better on how to use chatgpt
 
