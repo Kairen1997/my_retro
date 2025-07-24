@@ -1,0 +1,13 @@
+Completing Yesterday's task
++++++++++++++++++++++++++++++
+system improvement:
+
+The role selection should not be in registration form. It will endenger the whole system.
+
+Plug is use in authentication. module type: Module plugs are another type of plug that let us define a connection transformation in a module.
++++++++++++++++++++++++++++++
+
+ERD Consultation
+
+Good feedback from Sir. proceed to design
+
