@@ -1,0 +1,18 @@
+CONS
+
+Admin Panel(Sidebar)
+
+Submenu
+show submenu folder path
+Pagination
+
+Menu 1 > submenu 1
+
+Pagination
+Repopaginate (github)
+
+lasy loading
+
+With the CHATGPT assistance, i was able to complete the given task.
+it is crucial for me to master the use of AI. giving the specific task to CHATGPT helped me a lot in solving specific problem.
+Furthermore, i got familiar with all section in cursor based on its function. 
