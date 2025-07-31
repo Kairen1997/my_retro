@@ -1,0 +1,7 @@
+CONS task
+
+create filtering bugger menu 
+
+with the help of chatgpt i was able to compelete the task
+
+filtering is used to facilitate user in information searching. while bugger menu, centrelize the function of sidebar. it used to slidein and slideout menu
