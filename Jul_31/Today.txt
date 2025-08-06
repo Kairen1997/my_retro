@@ -1,0 +1,5 @@
+Design
+
+welcome page / landing page
+register and login
+user dashboard
