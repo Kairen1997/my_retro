@@ -1,0 +1,7 @@
+Figma design
+
+- i focused designing admin pages
+- admin dashboard
+- admin -profile
+- admin manage booking, packages, payment
+- system setting, log activity

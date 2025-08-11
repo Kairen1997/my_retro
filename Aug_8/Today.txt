@@ -1,0 +1,3 @@
+Figma Design
+- i focused on polishing the design both user and admin page
+- admin - departure details (add new packages,)

@@ -1,0 +1,1 @@
+figma design Admin Page (Edit packages ,view details package, view payment details)

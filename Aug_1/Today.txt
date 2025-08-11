@@ -1,0 +1,4 @@
+completing the given task
+
+do some progress on my project coding
+- creating file (context and schema, liveView, database)

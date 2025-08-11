@@ -1,0 +1,14 @@
+Git Pull Request - used in coding review
+
+example - creating home page interface 
+
+git checkout b- file_name
+
+publish branch - 
+
+
+Creating project file in cursor
+
+plugin convert figma design to html/css
+
+design implementation to cursor

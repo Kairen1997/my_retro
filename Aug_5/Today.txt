@@ -1,0 +1,8 @@
+figma project design 
+
+sidebar
+modal- affordability  page
+Package details page
+pay now page
+make payment page
+Receipt page
