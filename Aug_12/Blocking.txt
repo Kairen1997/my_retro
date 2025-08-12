@@ -1,0 +1,2 @@
+the biggest challanges for me today is when i try to connect the two branch i created. when i merge these two branches, there is a conflict in the design.
+especially the authentication page. its a raw design from phoenix, and i need to customize it accoringly with my figma design.
